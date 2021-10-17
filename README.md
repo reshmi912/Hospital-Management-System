@@ -43,6 +43,6 @@ The main purpose of the system is to:
 
 # ER Diagram:
 
-![](https://github.com/avs-abhishek123/Hospital-Management-System/blob/master/ERD/Physical_DataModel.png)
+![](https://github.com/reshmi912/Hospital-Management-System/blob/main/Physical_DataModel.png)
 
 By A.V.S. Reshmi
