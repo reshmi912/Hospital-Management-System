@@ -45,4 +45,4 @@ The main purpose of the system is to:
 
 ![](https://github.com/avs-abhishek123/Hospital-Management-System/blob/master/ERD/Physical_DataModel.png)
 
-By A.V.S. Abhishek
+By A.V.S. Reshmi
